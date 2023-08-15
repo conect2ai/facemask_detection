@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Azevedo"
+  given-names: "Mariana"
+- family-names: "Medeiros"
+  given-names: "Thaís"
+- family-names: "Medeiros"
+  given-names: "Morsinaldo"
+- family-names: "Silva"
+  given-names: "Ivanovitch"
+- family-names: "Costa"
+  given-names: "Daniel"
+title: "TinyML Face Mask Detection Code"
+version: 1.2.0
+date-released: 2023-08-15
+url: "https://github.com/conect2ai/facemask_detection"
