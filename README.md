@@ -4,7 +4,7 @@
 
 Many people have been using machine learning to create innovative solutions in all areas of science. Some models have up to 99% accuracy, and that's very cool, but in general, these models are hefty, and trained for hours or even days on powerful GPUs. The challenge we bring today is: how to run such a model on an embedded device? In general, these devices have limited processing and memory, and should not have high power consumption.
 
-With that in mind, [Mariana Azevedo](https://github.com/marianabritoazevedo), [Morsinaldo Medeiros](https://github.com/morsinaldo) and I did a small project to embed a model that detects whether or not a person is wearing a mask from a photo into an Arduino Nano 33 BLE Sense provided by [Edge Impulse](https://edgeimpulse.com), which can be seen in the image as follows. 
+With that in mind, [Mariana Azevedo](https://github.com/marianabritoazevedo), [Morsinaldo Medeiros](https://github.com/morsinaldo) and [Thaís Medeiros](https://github.com/thaisaraujom) did a small project to embed a model that detects whether or not a person is wearing a mask from a photo into an Arduino Nano 33 BLE Sense provided by [Edge Impulse](https://edgeimpulse.com), which can be seen in the image as follows. 
 
 <p align='center'>
     <img src='./img/kit.png' width=400>
@@ -95,7 +95,7 @@ It is important to know that these steps on how to run take into account that th
 Clone this repository 
 
 ```
-git clone https://github.com/thaisaraujo2000/facemask.git
+git clone https://github.com/conect2ai/facemask_detection.git
 ```
 
 ### Part I - Running on Google Colaboratory
